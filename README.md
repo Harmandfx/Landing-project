@@ -1,4 +1,4 @@
-# Guía para Crear una Landing Page Efectiva
+# Landing project Harrison Peña
 
 ## Índice de Contenido
 1. [Introducción](#introducción)
